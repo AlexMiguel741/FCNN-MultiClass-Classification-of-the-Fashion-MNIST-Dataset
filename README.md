@@ -1,1 +1,1 @@
-# FashionMNIST Feed Foward NN - MultiClass Classification
+# FCNN MultiClass Classification of the Fashion MNIST Dataset
